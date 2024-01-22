@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "899069580239",
+    "project_id": "let-s-buy-e647e",
+    "storage_bucket": "let-s-buy-e647e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899069580239:android:1e547c17e6d86767f878ba",
+        "android_client_info": {
+          "package_name": "com.rabeyarumi.letsbuy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAtozJXdhX4f2M4wuBgB72q2XLc5il98g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
